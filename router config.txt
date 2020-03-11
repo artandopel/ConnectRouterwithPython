@@ -1,0 +1,6 @@
+1)set configure username and password in router or switch 
+username cisco password 0 1234   
+
+2)set configure telnet 
+line vty 0 4 
+login local                                                                                                    
